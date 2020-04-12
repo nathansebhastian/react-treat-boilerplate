@@ -1,10 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import {Button} from './Button.treat';
 
 function App() {
   return (
-    <button className={Button}>Like</button>
+    <h1>React Treat Example</h1>
   );
 }
 
